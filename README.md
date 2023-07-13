@@ -1,4 +1,4 @@
-# nuxt-course
+# Nuxt Blog
 
 > Nuxt app node 9.4.0
 
